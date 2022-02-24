@@ -1,0 +1,1057 @@
+
+Warrior John vs Archer Edward
+
+John - 122 hp ; Edward - 83 hp
+
+Edward is attacking for 36 damage!
+John - 86 hp ; Edward - 83 hp
+
+John is attacking for 30 damage!
+John - 86 hp ; Edward - 53 hp
+
+John is attacking for 30 damage!
+John - 86 hp ; Edward - 23 hp
+
+John is attacking for 30 damage!
+John - 86 hp ; Edward - -7 hp
+
+Winner is John
+
+	**********
+
+Archer Craig vs Mage Mike
+
+Craig - 79 hp ; Mike - 72 hp
+
+Craig is attacking for 36 damage!
+Craig - 79 hp ; Mike - 36 hp
+
+Craig is attacking for 39 damage!
+Craig - 79 hp ; Mike - -3 hp
+
+Winner is Craig
+
+	**********
+
+Warrior Mike vs Warrior Edward
+
+Mike - 124 hp ; Edward - 123 hp
+
+Mike is attacking for 22 damage!
+Mike - 124 hp ; Edward - 101 hp
+
+Mike is attacking for 22 damage!
+Mike - 124 hp ; Edward - 79 hp
+
+Mike is attacking for 22 damage!
+Mike - 124 hp ; Edward - 57 hp
+
+Mike is attacking for 24 damage!
+Mike - 124 hp ; Edward - 33 hp
+
+Mike is attacking for 23 damage!
+Mike - 124 hp ; Edward - 10 hp
+
+Mike is attacking for 21 damage!
+Mike - 124 hp ; Edward - -11 hp
+
+Winner is Mike
+
+	**********
+
+Warrior Craig vs Mage Mike
+
+Craig - 123 hp ; Mike - 72 hp
+
+Craig is attacking for 27 damage, but Mike is healing 10 hp!
+Craig - 123 hp ; Mike - 55 hp
+
+Craig is attacking for 29 damage!
+Craig - 123 hp ; Mike - 26 hp
+
+Craig is attacking for 29 damage!
+Craig - 123 hp ; Mike - -3 hp
+
+Winner is Craig
+
+	**********
+
+Mage Craig vs Archer Bill
+
+Craig - 67 hp ; Bill - 81 hp
+
+Bill is attacking for 31 damage, but Craig is healing 16 hp!
+Craig - 52 hp ; Bill - 81 hp
+
+Craig is attacking for 45 damage!
+Craig - 52 hp ; Bill - 36 hp
+
+Craig is attacking, but Bill dodged the attack and took no damage!
+Craig - 52 hp ; Bill - 36 hp
+
+Craig is attacking for 45 damage!
+Craig - 52 hp ; Bill - -9 hp
+
+Winner is Craig
+
+	**********
+
+Mage John vs Warrior Edward
+
+John - 72 hp ; Edward - 117 hp
+
+John is attacking for 35 damage!
+John - 72 hp ; Edward - 82 hp
+
+John is attacking for 40 damage!
+John - 72 hp ; Edward - 42 hp
+
+John is attacking for 35 damage!
+John - 72 hp ; Edward - 7 hp
+
+John is attacking for 40 damage!
+John - 72 hp ; Edward - -33 hp
+
+Winner is John
+
+	**********
+
+Mage Harold vs Archer Mike
+
+Harold - 68 hp ; Mike - 77 hp
+
+Mike is attacking for 39 damage!
+Harold - 29 hp ; Mike - 77 hp
+
+Harold is attacking for 45 damage!
+Harold - 29 hp ; Mike - 32 hp
+
+Harold is attacking for 45 damage!
+Harold - 29 hp ; Mike - -13 hp
+
+Winner is Harold
+
+	**********
+
+Archer Harold vs Mage Craig
+
+Harold - 79 hp ; Craig - 71 hp
+
+Harold is attacking for 30 damage, but Craig is healing 13 hp!
+Harold - 79 hp ; Craig - 54 hp
+
+Harold is attacking for 30 damage!
+Harold - 79 hp ; Craig - 24 hp
+
+Harold is attacking for 38 damage, but Craig is healing 14 hp!
+Harold - 79 hp ; Craig - 0 hp
+
+Winner is Harold
+
+	**********
+
+Warrior Harold vs Archer Harold
+
+Harold - 125 hp ; Harold - 79 hp
+
+Harold is attacking for 35 damage!
+Harold - 90 hp ; Harold - 79 hp
+
+Harold is attacking, but Harold dodged the attack and took no damage!
+Harold - 90 hp ; Harold - 79 hp
+
+Harold is attacking for 30 damage!
+Harold - 90 hp ; Harold - 49 hp
+
+Harold is attacking for 30 damage!
+Harold - 90 hp ; Harold - 19 hp
+
+Harold is attacking for 30 damage!
+Harold - 90 hp ; Harold - -11 hp
+
+Winner is Harold
+
+	**********
+
+Warrior John vs Warrior Bill
+
+John - 122 hp ; Bill - 122 hp
+
+John is attacking for 23 damage!
+John - 122 hp ; Bill - 99 hp
+
+John is attacking for 24 damage!
+John - 122 hp ; Bill - 75 hp
+
+John is attacking for 26 damage!
+John - 122 hp ; Bill - 49 hp
+
+John is attacking for 20 damage!
+John - 122 hp ; Bill - 29 hp
+
+John is attacking for 25 damage!
+John - 122 hp ; Bill - 4 hp
+
+John is attacking for 26 damage!
+John - 122 hp ; Bill - -22 hp
+
+Winner is John
+
+	**********
+
+Warrior Bill vs Archer Edward
+
+Bill - 115 hp ; Edward - 77 hp
+
+Edward is attacking for 31 damage!
+Bill - 84 hp ; Edward - 77 hp
+
+Bill is attacking for 30 damage!
+Bill - 84 hp ; Edward - 47 hp
+
+Bill is attacking for 30 damage!
+Bill - 84 hp ; Edward - 17 hp
+
+Bill is attacking for 30 damage!
+Bill - 84 hp ; Edward - -13 hp
+
+Winner is Bill
+
+	**********
+
+Warrior Edward vs Archer John
+
+Edward - 125 hp ; John - 81 hp
+
+John is attacking for 30 damage!
+Edward - 95 hp ; John - 81 hp
+
+Edward is attacking for 30 damage!
+Edward - 95 hp ; John - 51 hp
+
+Edward is attacking for 30 damage!
+Edward - 95 hp ; John - 21 hp
+
+Edward is attacking for 30 damage!
+Edward - 95 hp ; John - -9 hp
+
+Winner is Edward
+
+	**********
+
+Mage John vs Warrior Bill
+
+John - 69 hp ; Bill - 117 hp
+
+John is attacking for 35 damage!
+John - 69 hp ; Bill - 82 hp
+
+John is attacking for 40 damage!
+John - 69 hp ; Bill - 42 hp
+
+John is attacking for 40 damage!
+John - 69 hp ; Bill - 2 hp
+
+John is attacking for 36 damage!
+John - 69 hp ; Bill - -34 hp
+
+Winner is John
+
+	**********
+
+Archer Harold vs Warrior Craig
+
+Harold - 77 hp ; Craig - 121 hp
+
+Harold is attacking for 35 damage!
+Harold - 77 hp ; Craig - 86 hp
+
+Harold is attacking for 34 damage!
+Harold - 77 hp ; Craig - 52 hp
+
+Harold is attacking for 30 damage!
+Harold - 77 hp ; Craig - 22 hp
+
+Harold is attacking for 34 damage!
+Harold - 77 hp ; Craig - -12 hp
+
+Winner is Harold
+
+	**********
+
+Archer Edward vs Warrior Craig
+
+Edward - 81 hp ; Craig - 118 hp
+
+Edward is attacking for 35 damage!
+Edward - 81 hp ; Craig - 83 hp
+
+Edward is attacking for 30 damage!
+Edward - 81 hp ; Craig - 53 hp
+
+Edward is attacking for 31 damage!
+Edward - 81 hp ; Craig - 22 hp
+
+Edward is attacking for 32 damage!
+Edward - 81 hp ; Craig - -10 hp
+
+Winner is Edward
+
+	**********
+
+Mage Bill vs Archer Craig
+
+Bill - 69 hp ; Craig - 79 hp
+
+Craig is attacking for 36 damage, but Bill is healing 17 hp!
+Bill - 50 hp ; Craig - 79 hp
+
+Bill is attacking for 45 damage!
+Bill - 50 hp ; Craig - 34 hp
+
+Bill is attacking for 45 damage!
+Bill - 50 hp ; Craig - -11 hp
+
+Winner is Bill
+
+	**********
+
+Warrior Bill vs Mage John
+
+Bill - 117 hp ; John - 68 hp
+
+Bill is attacking for 27 damage!
+Bill - 117 hp ; John - 41 hp
+
+Bill is attacking for 26 damage!
+Bill - 117 hp ; John - 15 hp
+
+Bill is attacking for 28 damage, but John is healing 21 hp!
+Bill - 117 hp ; John - 8 hp
+
+Bill is attacking for 27 damage, but John is healing 10 hp!
+Bill - 117 hp ; John - -9 hp
+
+Winner is Bill
+
+	**********
+
+Warrior John vs Archer Mike
+
+John - 116 hp ; Mike - 77 hp
+
+Mike is attacking for 33 damage!
+John - 83 hp ; Mike - 77 hp
+
+John is attacking for 30 damage!
+John - 83 hp ; Mike - 47 hp
+
+John is attacking for 30 damage!
+John - 83 hp ; Mike - 17 hp
+
+John is attacking for 30 damage!
+John - 83 hp ; Mike - -13 hp
+
+Winner is John
+
+	**********
+
+Warrior John vs Archer Harold
+
+John - 125 hp ; Harold - 80 hp
+
+Harold is attacking for 33 damage!
+John - 92 hp ; Harold - 80 hp
+
+John is attacking for 30 damage!
+John - 92 hp ; Harold - 50 hp
+
+John is attacking for 30 damage!
+John - 92 hp ; Harold - 20 hp
+
+John is attacking for 30 damage!
+John - 92 hp ; Harold - -10 hp
+
+Winner is John
+
+	**********
+
+Mage Edward vs Warrior John
+
+Edward - 67 hp ; John - 119 hp
+
+Edward is attacking for 36 damage!
+Edward - 67 hp ; John - 83 hp
+
+Edward is attacking for 39 damage!
+Edward - 67 hp ; John - 44 hp
+
+Edward is attacking for 39 damage!
+Edward - 67 hp ; John - 5 hp
+
+Edward is attacking for 39 damage!
+Edward - 67 hp ; John - -34 hp
+
+Winner is Edward
+
+	**********
+
+Mage Mike vs Mage Harold
+
+Mike - 69 hp ; Harold - 69 hp
+
+Mike is attacking for 39 damage!
+Mike - 69 hp ; Harold - 30 hp
+
+Mike is attacking for 39 damage!
+Mike - 69 hp ; Harold - -9 hp
+
+Winner is Mike
+
+	**********
+
+Archer Bill vs Warrior Mike
+
+Bill - 83 hp ; Mike - 119 hp
+
+Bill is attacking for 31 damage!
+Bill - 83 hp ; Mike - 88 hp
+
+
+Archer Edward vs Archer Mike
+
+Edward - 82 hp ; Mike - 82 hp
+
+Edward is attacking for 40 damage!
+Edward - 82 hp ; Mike - 42 hp
+
+Edward is attacking for 40 damage!
+Edward - 82 hp ; Mike - 2 hp
+
+
+Mage Bill vs Archer Craig
+
+Bill - 72 hp ; Craig - 81 hp
+
+Craig is attacking for 32 damage!
+Bill - 40 hp ; Craig - 81 hp
+
+Bill is attacking for 45 damage!
+Bill - 40 hp ; Craig - 36 hp
+
+Craig is attacking for 39 damage!
+Bill - 1 hp ; Craig - 36 hp
+
+Craig is attacking for 39 damage!
+Bill - -38 hp ; Craig - 36 hp
+
+Winner is Craig
+
+	**********
+
+Archer Edward vs Mage Harold
+
+Edward - 79 hp ; Harold - 71 hp
+
+Edward is attacking for 38 damage!
+Edward - 79 hp ; Harold - 33 hp
+
+Edward is attacking for 40 damage!
+Edward - 79 hp ; Harold - -7 hp
+
+Winner is Edward
+
+	**********
+
+Archer Craig vs Archer Bill
+
+Craig - 83 hp ; Bill - 78 hp
+
+Craig is attacking for 40 damage!
+Craig - 83 hp ; Bill - 38 hp
+
+Craig is attacking for 40 damage!
+Craig - 83 hp ; Bill - -2 hp
+
+Winner is Craig
+
+	**********
+
+Archer Harold vs Warrior Craig
+
+Harold - 80 hp ; Craig - 115 hp
+
+Harold is attacking for 34 damage!
+Harold - 80 hp ; Craig - 81 hp
+
+Craig is attacking for 30 damage!
+Harold - 50 hp ; Craig - 81 hp
+
+Craig is attacking for 30 damage!
+Harold - 20 hp ; Craig - 81 hp
+
+Craig is attacking for 30 damage!
+Harold - -10 hp ; Craig - 81 hp
+
+Winner is Craig
+
+	**********
+
+Warrior Bill vs Mage Craig
+
+Bill - 116 hp ; Craig - 70 hp
+
+Bill is attacking for 24 damage!
+Bill - 116 hp ; Craig - 46 hp
+
+Craig is attacking for 38 damage!
+Bill - 78 hp ; Craig - 46 hp
+
+Craig is attacking for 35 damage!
+Bill - 43 hp ; Craig - 46 hp
+
+Bill is attacking for 27 damage!
+Bill - 43 hp ; Craig - 19 hp
+
+Craig is attacking for 39 damage!
+Bill - 4 hp ; Craig - 19 hp
+
+Craig is attacking for 35 damage!
+Bill - -31 hp ; Craig - 19 hp
+
+Winner is Craig
+
+	**********
+
+Mage John vs Warrior Mike
+
+John - 71 hp ; Mike - 123 hp
+
+
+Mage Craig vs Archer Harold
+
+Craig - 69 hp ; Harold - 80 hp
+
+Harold is attacking for 31 damage!
+Craig - 38 hp ; Harold - 80 hp
+
+Craig is attacking for 45 damage!
+Craig - 38 hp ; Harold - 35 hp
+
+Harold is attacking for 30 damage!
+Craig - 8 hp ; Harold - 35 hp
+
+Harold is attacking for 39 damage!
+Craig - -31 hp ; Harold - 35 hp
+
+Winner is Harold
+
+	**********
+
+Warrior Mike vs Warrior John
+
+Mike - 119 hp ; John - 120 hp
+
+John is attacking for 24 damage!
+Mike - 95 hp ; John - 120 hp
+
+Mike is attacking for 24 damage!
+Mike - 95 hp ; John - 96 hp
+
+Mike is attacking for 20 damage!
+Mike - 95 hp ; John - 76 hp
+
+Mike is attacking for 20 damage!
+Mike - 95 hp ; John - 56 hp
+
+John is attacking for 24 damage!
+Mike - 71 hp ; John - 56 hp
+
+Mike is attacking for 24 damage!
+Mike - 71 hp ; John - 32 hp
+
+Mike is attacking for 21 damage!
+Mike - 71 hp ; John - 11 hp
+
+Mike is attacking for 25 damage!
+Mike - 71 hp ; John - -14 hp
+
+Winner is Mike
+
+	**********
+
+Warrior John vs Mage Edward
+
+John - 125 hp ; Edward - 70 hp
+
+
+Archer Mike vs Mage Craig
+
+Mike - 82 hp ; Craig - 69 hp
+
+Mike is attacking for 35 damage!
+Mike - 82 hp ; Craig - 34 hp
+
+Mike is attacking for 30 damage!
+Mike - 82 hp ; Craig - 4 hp
+
+Mike is attacking for 31 damage!
+Mike - 82 hp ; Craig - -27 hp
+
+Winner is Mike
+
+	**********
+
+Archer Harold vs Mage John
+
+Harold - 83 hp ; John - 67 hp
+
+Harold is attacking for 34 damage!
+Harold - 83 hp ; John - 33 hp
+
+Harold is attacking for 31 damage, but John is healing 17 hp!
+Harold - 83 hp ; John - 19 hp
+
+John is attacking for 45 damage!
+Harold - 38 hp ; John - 19 hp
+
+John is attacking for 45 damage!
+Harold - -7 hp ; John - 19 hp
+
+Winner is John
+
+	**********
+
+Warrior Bill vs Warrior Craig
+
+Bill - 115 hp ; Craig - 117 hp
+
+Craig is attacking for 22 damage!
+Bill - 93 hp ; Craig - 117 hp
+
+Bill is attacking for 20 damage!
+Bill - 93 hp ; Craig - 97 hp
+
+Bill is attacking for 23 damage!
+Bill - 93 hp ; Craig - 74 hp
+
+Bill is attacking for 24 damage!
+Bill - 93 hp ; Craig - 50 hp
+
+Craig is attacking for 24 damage!
+Bill - 69 hp ; Craig - 50 hp
+
+Craig is attacking for 24 damage!
+Bill - 45 hp ; Craig - 50 hp
+
+Craig is attacking for 21 damage!
+Bill - 24 hp ; Craig - 50 hp
+
+Craig is attacking for 25 damage!
+Bill - -1 hp ; Craig - 50 hp
+
+Winner is Craig
+
+	**********
+
+Warrior Edward vs Archer Mike
+
+Edward - 118 hp ; Mike - 82 hp
+
+Mike is attacking for 35 damage!
+Edward - 83 hp ; Mike - 82 hp
+
+Mike is attacking for 31 damage!
+Edward - 52 hp ; Mike - 82 hp
+
+Mike is attacking for 30 damage!
+Edward - 22 hp ; Mike - 82 hp
+
+Edward is attacking for 30 damage!
+Edward - 22 hp ; Mike - 52 hp
+
+Edward is attacking, but Mike dodged the attack and took no damage!
+Edward - 22 hp ; Mike - 52 hp
+
+Mike is attacking for 35 damage!
+Edward - -13 hp ; Mike - 52 hp
+
+Winner is Mike
+
+	**********
+
+Archer Bill vs Warrior John
+
+Bill - 83 hp ; John - 122 hp
+
+Bill is attacking for 34 damage!
+Bill - 83 hp ; John - 88 hp
+
+John is attacking for 30 damage!
+Bill - 53 hp ; John - 88 hp
+
+Bill is attacking for 34 damage!
+Bill - 53 hp ; John - 54 hp
+
+Bill is attacking for 35 damage!
+Bill - 53 hp ; John - 19 hp
+
+Bill is attacking for 35 damage!
+Bill - 53 hp ; John - -16 hp
+
+Winner is Bill
+
+	**********
+
+Mage John vs Mage Edward
+
+John - 69 hp ; Edward - 67 hp
+
+John is attacking for 34 damage, but Edward is healing 20 hp!
+John - 69 hp ; Edward - 53 hp
+
+John is attacking for 43 damage!
+John - 69 hp ; Edward - 10 hp
+
+Edward is attacking for 40 damage!
+John - 29 hp ; Edward - 10 hp
+
+Edward is attacking for 36 damage!
+John - -7 hp ; Edward - 10 hp
+
+Winner is Edward
+
+	**********
+
+Archer Craig vs Archer Mike
+
+Craig - 78 hp ; Mike - 81 hp
+
+Craig is attacking for 40 damage!
+Craig - 78 hp ; Mike - 41 hp
+
+Craig is attacking for 40 damage!
+Craig - 78 hp ; Mike - 1 hp
+
+Mike is attacking for 40 damage!
+Craig - 38 hp ; Mike - 1 hp
+
+Mike is attacking for 40 damage!
+Craig - -2 hp ; Mike - 1 hp
+
+Winner is Mike
+
+	**********
+
+Warrior Edward vs Archer Harold
+
+Edward - 123 hp ; Harold - 77 hp
+
+Harold is attacking for 32 damage!
+Edward - 91 hp ; Harold - 77 hp
+
+Harold is attacking for 34 damage!
+Edward - 57 hp ; Harold - 77 hp
+
+Edward is attacking for 30 damage!
+Edward - 57 hp ; Harold - 47 hp
+
+Harold is attacking for 34 damage!
+Edward - 23 hp ; Harold - 47 hp
+
+Harold is attacking for 35 damage!
+Edward - -12 hp ; Harold - 47 hp
+
+Winner is Harold
+
+	**********
+
+Archer Mike vs Warrior Harold
+
+Mike - 83 hp ; Harold - 115 hp
+
+Mike is attacking for 31 damage!
+Mike - 83 hp ; Harold - 84 hp
+
+Harold is attacking for 30 damage!
+Mike - 53 hp ; Harold - 84 hp
+
+Harold is attacking for 30 damage!
+Mike - 23 hp ; Harold - 84 hp
+
+Mike is attacking for 35 damage!
+Mike - 23 hp ; Harold - 49 hp
+
+Harold is attacking for 30 damage!
+Mike - -7 hp ; Harold - 49 hp
+
+Winner is Harold
+
+	**********
+
+Warrior John vs Mage John
+
+John - 115 hp ; John - 71 hp
+
+John is attacking for 23 damage!
+John - 115 hp ; John - 48 hp
+
+John is attacking for 39 damage!
+John - 76 hp ; John - 48 hp
+
+John is attacking for 24 damage!
+John - 76 hp ; John - 24 hp
+
+John is attacking for 36 damage!
+John - 40 hp ; John - 24 hp
+
+John is attacking for 39 damage!
+John - 1 hp ; John - 24 hp
+
+John is attacking for 28 damage!
+John - 1 hp ; John - -4 hp
+
+Winner is John
+
+	**********
+
+Archer Bill vs Archer John
+
+Bill - 77 hp ; John - 81 hp
+
+Bill is attacking for 40 damage!
+Bill - 77 hp ; John - 41 hp
+
+John is attacking for 40 damage!
+Bill - 37 hp ; John - 41 hp
+
+John is attacking for 40 damage!
+Bill - -3 hp ; John - 41 hp
+
+Winner is John
+
+	**********
+
+Archer Craig vs Warrior John
+
+Craig - 77 hp ; John - 125 hp
+
+Craig is attacking for 35 damage!
+Craig - 77 hp ; John - 90 hp
+
+John is attacking for 30 damage!
+Craig - 47 hp ; John - 90 hp
+
+John is attacking, but Craig dodged the attack and took no damage!
+Craig - 47 hp ; John - 90 hp
+
+John is attacking for 30 damage!
+Craig - 17 hp ; John - 90 hp
+
+John is attacking for 30 damage!
+Craig - -13 hp ; John - 90 hp
+
+Winner is John
+
+	**********
+
+Mage Mike vs Mage Craig
+
+Mike - 69 hp ; Craig - 67 hp
+
+Craig is attacking for 36 damage!
+Mike - 33 hp ; Craig - 67 hp
+
+Craig is attacking for 44 damage!
+Mike - -11 hp ; Craig - 67 hp
+
+Winner is Craig
+
+	**********
+
+Archer Mike vs Warrior Harold
+
+Mike - 81 hp ; Harold - 124 hp
+
+Mike is attacking for 31 damage!
+Mike - 81 hp ; Harold - 93 hp
+
+Harold is attacking for 30 damage!
+Mike - 51 hp ; Harold - 93 hp
+
+Mike is attacking for 34 damage!
+Mike - 51 hp ; Harold - 59 hp
+
+Harold is attacking, but Mike dodged the attack and took no damage!
+Mike - 51 hp ; Harold - 59 hp
+
+Mike is attacking for 35 damage!
+Mike - 51 hp ; Harold - 24 hp
+
+Harold is attacking for 30 damage!
+Mike - 21 hp ; Harold - 24 hp
+
+Harold is attacking for 30 damage!
+Mike - -9 hp ; Harold - 24 hp
+
+Winner is Harold
+
+	**********
+
+Archer Harold vs Warrior Craig
+
+Harold - 83 hp ; Craig - 121 hp
+
+Harold is attacking for 30 damage!
+Harold - 83 hp ; Craig - 91 hp
+
+Harold is attacking for 30 damage!
+Harold - 83 hp ; Craig - 61 hp
+
+Craig is attacking for 30 damage!
+Harold - 53 hp ; Craig - 61 hp
+
+Harold is attacking for 31 damage!
+Harold - 53 hp ; Craig - 30 hp
+
+Craig is attacking for 30 damage!
+Harold - 23 hp ; Craig - 30 hp
+
+
+Archer Mike vs Archer Harold
+
+Mike - 81 hp ; Harold - 81 hp
+
+Harold is attacking for 40 damage!
+Mike - 41 hp ; Harold - 81 hp
+
+Mike is attacking for 40 damage!
+Mike - 41 hp ; Harold - 41 hp
+
+Mike is attacking for 40 damage!
+Mike - 41 hp ; Harold - 1 hp
+
+Harold is attacking, but Mike dodged the attack and took no damage!
+Mike - 41 hp ; Harold - 1 hp
+
+Harold is attacking for 40 damage!
+Mike - 1 hp ; Harold - 1 hp
+
+Harold is attacking for 40 damage!
+Mike - -39 hp ; Harold - 1 hp
+
+Winner is Harold
+
+	**********
+
+Warrior Harold vs Mage Edward
+Harold - 122 hp ; Edward - 68 hp
+Edward is attacking for 38 damage!
+Harold - 84 hp ; Edward - 68 hp
+Edward is attacking for 40 damage!
+Harold - 44 hp ; Edward - 68 hp
+Harold is attacking for 27 damage!
+Harold - 44 hp ; Edward - 41 hp
+Harold is attacking for 27 damage!
+Harold - 44 hp ; Edward - 14 hp
+Archer Bill vs Warrior John
+Bill - 83 hp ; John - 124 hp
+Bill is attacking for 33 damage!
+Bill - 83 hp ; John - 91 hp
+John is attacking, but Bill dodged the attack and took no damage!
+Bill - 83 hp ; John - 91 hp
+John is attacking for 30 damage!
+Bill - 53 hp ; John - 91 hp
+John is attacking for 30 damage!
+Bill - 23 hp ; John - 91 hp
+Bill is attacking for 33 damage!
+Bill - 23 hp ; John - 58 hp
+John is attacking for 30 damage!
+Bill - -7 hp ; John - 58 hp
+Winner is John
+
+	**********
+Archer John vs Mage John
+John - 80 hp ; John - 68 hp
+John is attacking for 35 damage, but John is healing 19 hp!
+John - 80 hp ; John - 52 hp
+John is attacking for 45 damage!
+John - 35 hp ; John - 52 hp
+John is attacking for 35 damage!
+John - 35 hp ; John - 17 hp
+John is attacking for 45 damage!
+John - -10 hp ; John - 17 hp
+Winner is John
+
+	**********
+Archer John vs Archer Bill
+John - 80 hp ; Bill - 78 hp
+Bill is attacking for 40 damage!
+John - 40 hp ; Bill - 78 hp
+John is attacking for 40 damage!
+John - 40 hp ; Bill - 38 hp
+John is attacking for 40 damage!
+John - 40 hp ; Bill - -2 hp
+Winner is John
+
+	**********
+Archer John vs Warrior John
+John - 80 hp ; John - 117 hp
+John is attacking for 32 damage!
+John - 80 hp ; John - 85 hp
+John is attacking for 30 damage!
+John - 50 hp ; John - 85 hp
+John is attacking for 30 damage!
+John - 20 hp ; John - 85 hp
+John is attacking for 30 damage!
+John - -10 hp ; John - 85 hp
+Winner is John
+
+	**********
+Archer Bill vs Archer Mike
+Bill - 77 hp ; Mike - 78 hp
+Warrior John vs Archer Harold
+John - 121 hp ; Harold - 83 hp
+Harold is attacking for 32 damage!
+John - 89 hp ; Harold - 83 hp
+John is attacking for 30 damage!
+John - 89 hp ; Harold - 53 hp
+Harold is attacking for 32 damage!
+John - 57 hp ; Harold - 53 hp
+Harold is attacking for 36 damage!
+John - 21 hp ; Harold - 53 hp
+John is attacking for 30 damage!
+John - 21 hp ; Harold - 23 hp
+Harold is attacking for 32 damage!
+John - -11 hp ; Harold - 23 hp
+Winner is Harold
+
+	**********
+Warrior Harold vs Archer Harold
+Harold - 124 hp ; Harold - 79 hpHarold is attacking for 34 damage!
+Harold - 90 hp ; Harold - 79 hpArcher Bill vs Archer Bill
+Bill - 82 hp ; Bill - 83 hp
+Bill is attacking for 40 damage!Bill - 42 hp ; Bill - 83 hp
+Bill is attacking for 40 damage!Bill - 42 hp ; Bill - 43 hp
+Bill is attacking for 40 damage!Bill - 42 hp ; Bill - 3 hp
+Bill is attacking for 40 damage!Bill - 2 hp ; Bill - 3 hp
+Bill is attacking for 40 damage!Bill - 2 hp ; Bill - -37 hp
+Winner is Bill
+
+	**********
+Mage Bill vs Mage Harold
+Bill - 70 hp ; Harold - 69 hp
+Bill is attacking for 40 damage!Bill - 70 hp ; Harold - 29 hp
+Harold is attacking for 37 damage!Bill - 33 hp ; Harold - 29 hp
+Harold is attacking for 43 damage!Bill - -10 hp ; Harold - 29 hp
+Winner is Harold
+
+	**********
+Mage John vs Archer John
+John - 70 hp ; John - 79 hp
+John is attacking for 36 damage!John - 34 hp ; John - 79 hp
+John is attacking for 31 damage, but John is healing 16 hp!John - 19 hp ; John - 79 hp
+John is attacking for 33 damage!John - -14 hp ; John - 79 hp
+Winner is John
+
+	**********
